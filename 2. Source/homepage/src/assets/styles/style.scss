@@ -1,0 +1,40 @@
+@import "utils/all";
+.App {
+  width: 100%;
+}
+
+.header {
+  background-color: black;
+  margin: 0 10% 0 10%;
+
+  &--container {
+    display: flex;
+    margin-left: auto;
+  }
+
+  &--item {
+    margin:0 10px 0 10px;
+    align-self: center;
+    a {
+      text-decoration: none;
+      color: white;
+      font-weight: bold;
+    }
+  }
+
+  &--logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+    img {
+      height: 48px;
+    }
+    span {
+      margin-left: 8px;
+      color: white;
+      font-weight: bold;
+    }
+  }
+
+}

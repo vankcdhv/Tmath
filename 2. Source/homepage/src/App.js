@@ -1,6 +1,7 @@
-import './App.css';
-import './component/header'
-import Header from "./component/header";
+import './components/header/header'
+import "assets/styles/style.scss"
+
+import Header from "./components/header/header";
 function App() {
   return (
     <div className="App">
