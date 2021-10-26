@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tmath/static/css/main.0850b6bb.chunk.css",
+    "main.js": "/Tmath/static/js/main.a9f005b5.chunk.js",
+    "main.js.map": "/Tmath/static/js/main.a9f005b5.chunk.js.map",
+    "runtime-main.js": "/Tmath/static/js/runtime-main.4d488ae4.js",
+    "runtime-main.js.map": "/Tmath/static/js/runtime-main.4d488ae4.js.map",
+    "static/js/2.d0613ce0.chunk.js": "/Tmath/static/js/2.d0613ce0.chunk.js",
+    "static/js/2.d0613ce0.chunk.js.map": "/Tmath/static/js/2.d0613ce0.chunk.js.map",
+    "index.html": "/Tmath/index.html",
+    "static/css/main.0850b6bb.chunk.css.map": "/Tmath/static/css/main.0850b6bb.chunk.css.map",
+    "static/js/2.d0613ce0.chunk.js.LICENSE.txt": "/Tmath/static/js/2.d0613ce0.chunk.js.LICENSE.txt",
+    "static/media/imageSlider.scss": "/Tmath/static/media/Segoe-UI-Bold.b00928e6.ttf",
+    "static/media/style.scss": "/Tmath/static/media/background.e2ea3b18.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d488ae4.js",
+    "static/js/2.d0613ce0.chunk.js",
+    "static/css/main.0850b6bb.chunk.css",
+    "static/js/main.a9f005b5.chunk.js"
+  ]
+}
