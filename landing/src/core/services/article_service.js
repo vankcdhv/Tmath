@@ -7,8 +7,7 @@ export const getAllArticle = async () => {
 
 export const getArticleByType = async (type) => {
     const response = (await Firebase.getCollections(COLLECTION_ARTICLE + '/' + type + '/' + type))
-    const result = response.map(item => ({...item, type: type}))
-    return result
+    return response.map(item => ({...item, type: type}))
 }
 
 export const addArticle = async (article, type) => {
